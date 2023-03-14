@@ -22,6 +22,61 @@
         </dt><!--
         --><dd>
             <p>{{ qualification.description }}</p>
+	    <p>{{ qualification.thesis}}</p>
+            <p>{{ qualification.grade }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Languages</h3>
+<dl class="languages">
+    {% for language in site.data.languages %}
+            <dt>
+            <p class="title">{{ language.language }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ language.level }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Awards</h3>
+<dl class="education">
+    {% for award in site.data.awards %}
+        <dt>
+            <p class="title">{{ award.award }}</p>
+            <p class="date">{{ award.date }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ award.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Volunteering</h3>
+<dl class="experience">
+    {% for v in site.data.volunteering %}
+        <dt>
+            <p class="title">{{ v.title }}</p>
+            <p class="date">{{ v.date }}</p>
+            
+        </dt><!--
+        --><dd>
+            <p>{{ v.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
+<h3 class="section-title">Projects</h3>
+<dl class="experience">
+    {% for p in site.data.projects %}
+        <dt>
+            <p class="title">{{ p.title }}</p>
+            <p class="date">{{ p.date }}</p>
+            
+        </dt><!--
+        --><dd>
+            <p>{{ p.description }}</p>
         </dd>
     {% endfor %}
 </dl>

@@ -1,14 +1,27 @@
 // @name Typography
 // @description All typography settings and styles
 
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Barlow:400,700|Barlow+Semi+Condensed:400,700,900);
 
 // Our variables
-$base-font-family: "Lora", Helvetica, Arial, sans-serif;
+$base-font-family: "Barlow", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
+
+.intro__main {
+	font-family: "Barlow Semi Condensed", serif;
+}
 
 body {
     font-family: $base-font-family, serif;
     font-size: $base-font-size;
     line-height: 1.4;
+    color:#444;
+    background-color: white;
 }
+
+b {
+    font-weight: 700;
+}
+
+
+

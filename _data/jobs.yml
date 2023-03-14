@@ -1,7 +1,20 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Data Analyst
+    company: SDG Group
+    description: "As a Data Analyst at SDG Group, I was responsible for assisting in the analysis and interpretation of data to inform business decisions. My main responsibilities included:<br>
+- Collecting and organizing large data sets using statistical software tools<br>
+- Conducting data analysis to identify trends and patterns, and provide insights to senior data analysts and stakeholders<br>
+- Supporting the development and maintenance of data models and dashboards to support business needs<br>
+- Assisting in the creation of data visualizations to communicate findings to stakeholders<br>
+- Collaborating with cross-functional teams to identify opportunities for process improvement<br>
+- Performing regular data audits to ensure data accuracy and quality<br>
+- Conducting research to keep up-to-date with industry trends and best practices
+" 
+    period: 09/2022 - Present
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Internship
+    company: Ardanuy Ingeniería
+    description: "As an intern at Ardanuy, I had the opportunity to work on various projects related to railway signaling systems. My main responsibilities included:<br>
+- Assisting in the design and installation of railway signaling systems, including the placement of signals, switches, and track circuits<br>
+- Assisting in the preparation of technical documentation related to signaling systems<br>
+- Collaborating with cross-functional teams to ensure that signaling systems were integrated with other railway systems"
+    period: 03/2021 - 07/2021

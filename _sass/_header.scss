@@ -34,7 +34,10 @@ header {
 }
 
 .social {
-    a {
-        margin-right: $spacer;
-    }
+	margin-right: $spacer;
+}
+
+.login {
+    display: inline;
+    float: right;
 }

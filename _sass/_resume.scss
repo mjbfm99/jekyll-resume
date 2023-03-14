@@ -11,9 +11,15 @@ dt, dd {
     margin-bottom: $spacer;
 }
 
+dd {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 @media(min-width: 640px) {
     dt, dd {
         margin-bottom: 60px;
+        //width: 50%;
     }
 
     .experience {
@@ -26,11 +32,34 @@ dt, dd {
         }
     }
 
+
     .education {
         dt, dd {
             width: 50%;
         }
     }
+
+    
+}
+
+.education .title {
+	margin-right: 20px;
+}
+
+.languages {
+     dt, dd {
+         width: 50%;
+	 margin-bottom: 20px;
+     }
+
+}
+
+dl.languages{
+	margin-bottom: 60px;
+}
+
+dt {
+	padding-right: ($spacer * 2);
 }
 
 .title {

@@ -1,19 +1,17 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: Manuel Jiménez 
+email: manuel@jimenez.eu.org
+description: My résumé
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+url: "https://www.manueljimenez.eu.org"
+name: Manuel Jiménez
+job: telecommunications engineer
+location: Madrid, Spain 
+languages: English, Spanish
+github_username:  mjbfm99
+email_address: manuel@jimenez.eu.org
 
 # Build settings
 markdown: kramdown
