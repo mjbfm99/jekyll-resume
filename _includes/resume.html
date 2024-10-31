@@ -40,6 +40,19 @@
     {% endfor %}
 </dl>
 
+<h3 class="section-title">Certifications</h3>
+<dl class="education">
+    {% for p in site.data.certs %}
+        <dt>
+            <p class="title">{{ p.title }}</p>
+            <p class="date">{{ p.date }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ p.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
 <h3 class="section-title">Awards</h3>
 <dl class="education">
     {% for award in site.data.awards %}
@@ -73,7 +86,7 @@
         <dt>
             <p class="title">{{ p.title }}</p>
             <p class="date">{{ p.date }}</p>
-            
+
         </dt>
         <dd>
             <p>{{ p.description }}</p>
