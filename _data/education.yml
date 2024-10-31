@@ -1,6 +1,13 @@
--   qualification: B.Sc. in Telecommunications Engineering 
-    school: Universitat Politècnica de Catalunya
-    description: "<b>Minor:</b> Network Engineering"
-    thesis: "<b>Bachelor's Thesis:</b> Modeling & evaluation of local IoT environments, at the Warsaw University of Technology"
-    grade: "<b>Average grade:</b> 7.43"
-    period: 2017 - 2022
+- qualification: M.Sc. in Cybersecurity and Privacy
+  school: Universitat Oberta de Catalunya
+  description: ""
+  thesis: "<b>Master's Thesis:</b> Modernizing LDAP Security in Linux Workstations: Integrating with Microservices and Containers"
+  grade: ""
+  period: 2023 - 2025
+
+- qualification: B.Sc. in Telecommunications Engineering
+  school: Universitat Politècnica de Catalunya
+  description: ""
+  thesis: "<b>Bachelor's Thesis:</b> Modeling and Testing of a Local IoT Environment"
+  grade: ""
+  period: 2017 - 2022

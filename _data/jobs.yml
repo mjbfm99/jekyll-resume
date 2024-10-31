@@ -1,20 +1,16 @@
--   title: Data Analyst
-    company: SDG Group
-    description: "As a Data Analyst at SDG Group, I was responsible for assisting in the analysis and interpretation of data to inform business decisions. My main responsibilities included:<br>
-- Collecting and organizing large data sets using statistical software tools<br>
-- Conducting data analysis to identify trends and patterns, and provide insights to senior data analysts and stakeholders<br>
-- Supporting the development and maintenance of data models and dashboards to support business needs<br>
-- Assisting in the creation of data visualizations to communicate findings to stakeholders<br>
-- Collaborating with cross-functional teams to identify opportunities for process improvement<br>
-- Performing regular data audits to ensure data accuracy and quality<br>
-- Conducting research to keep up-to-date with industry trends and best practices
-" 
-    period: 09/2022 - Present
+- title: Data Engineer
+  company: SDG Group
+  description: "As a Data Engineer at SDG Group, I contributed to developing and maintaining data pipelines for real-time data processing, combining sensor data from Kafka with factory databases. Key responsibilities included:<br>
+- Developing and maintaining scalable ETL pipelines on AWS (S3, Lambda, Glue, Redshift) for large-scale data processing<br>
+- Collaborating with cross-functional teams to design and optimize data models and data lakes using Snowflake and Databricks<br>
+- Improving data quality and reducing latency in batch workflows with Apache Airflow for task scheduling and monitoring<br>
+- Implementing Terraform to automate infrastructure provisioning on AWS"
+  period: 2022 - 2024
 
--   title: Internship
-    company: Ardanuy Ingeniería
-    description: "As an intern at Ardanuy, I had the opportunity to work on various projects related to railway signaling systems. My main responsibilities included:<br>
-- Assisting in the design and installation of railway signaling systems, including the placement of signals, switches, and track circuits<br>
-- Assisting in the preparation of technical documentation related to signaling systems<br>
-- Collaborating with cross-functional teams to ensure that signaling systems were integrated with other railway systems"
-    period: 03/2021 - 07/2021
+- title: Railway Signaling Design Intern
+  company: Ardanuy Ingeniería
+  description: "As an intern at Ardanuy, I worked on various railway signaling projects with responsibilities such as:<br>
+- Assisting in the design and installation of railway signaling systems, including the placement of signals and track circuits<br>
+- Preparing technical documentation related to signaling system projects<br>
+- Collaborating with cross-functional teams to integrate signaling systems with other railway systems"
+  period: 2021
